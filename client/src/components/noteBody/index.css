@@ -1,0 +1,36 @@
+#btn-delete {
+  background-color: red !important;
+  margin-left: 5px;
+  width: 100px;
+}
+.cls-note {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  /* text-align: left; */
+  /* margin-left: 40px; */
+  /* margin-top: 100px; */
+  padding: 20px 400px;
+}
+#ip-value {
+  height: 60px;
+  width: 500px;
+  text-align: left;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  position: relative;
+  padding: 10px;
+}
+#title {
+  text-align: left;
+}
+#id-add {
+  font-size: 25px;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  position: absolute;
+  top: 130px;
+  right: 520px;
+}
